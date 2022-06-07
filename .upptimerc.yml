@@ -13,7 +13,7 @@ sites:
     url: https://edition.cnn.com
   - name: HackMD
     url: https://hackmd.io
-  - Broke Website
+  - name: Broke Website
     url: https://ffg
 
 status-website:
